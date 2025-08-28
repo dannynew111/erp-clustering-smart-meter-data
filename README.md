@@ -24,7 +24,8 @@ To reproduce the analysis and findings, the Jupyter Notebooks **must be executed
 2.  **`feature_engineering_v4.ipynb`**: This notebook constructs the core features for the analysis, including metrics for price responsiveness and intrinsic consumption patterns.
 3.  **`EDA_visualisations_v4.ipynb`**: This notebook conducts exploratory data analysis, generating key visualizations to understand the distributions and relationships within the dataset.
 4.  **`clustering_v4.ipynb`**: This notebook applies clustering algorithms to the engineered features to segment the households and create distinct user personas.
-5.  **`advanced_stats_analysis.ipynb`**: This notebook performs the final statistical analysis on the generated clusters, interpreting the personas and formulating the strategic intervention toolkit.
+5.  **`survey_data_preparation_v2`**: This notebook converts complex survey answers to binary and likert scale (1-5) features that can be used to create visualisations to interpret attitudinal feature affect on household consumption.
+6.  **`advanced_stats_analysis.ipynb`**: This notebook performs the final statistical analysis on the generated clusters, interpreting the personas and formulating the strategic intervention toolkit.
 
 ---
 
